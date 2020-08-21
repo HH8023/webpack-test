@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'MyFont';
+	src: url('./SixCaps-webfont.woff') format('woff'),
+		 url('./锐字云字库行楷体.ttf') format('ttf');
+		 /*url('./ionicons.woff') format('woff');*/
+	font-weight: 600;
+	font-style: normal;
+}
+
+.hello {
+	color: red;
+	font-family: 'MyFont';
+	/*background: url('./111.jpg');*/
+}

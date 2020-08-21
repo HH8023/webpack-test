@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tree id="0" radio="2">
+        <item text="制图" id="mapping_F_" im0="books_close.gif" im1="books_open.gif" im2="books_close.gif" open="1">
+            <item text="中国影像图" id="WorldImageryMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="中国地形图" id="WorldTopographicMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="中国街景地图" id="WorldStreetMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="地形和覆盖" id="Terrainandoverlays" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="切换底图" id="SwitchingBasemaps" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="选择并缩放" id="SelectandZoom" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="旋转地图" id="RotateMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="指定显示比例值" id="OnlyusesomescalesLODs" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="显示范围和坐标" id="MapExtentandMouseCoordinates" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+        </item>
+		<item text="搜索和识别" id="FindAndIdentify_F_" im0="books_close.gif" im1="books_open.gif" im2="books_close.gif" open="1">
+            <item text="多图层搜索" id="FindFeaturesInMapLayers" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="识别地图要素" id="IdentifyFeatures" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="缩放到查找的结果" id="ZoomToFoundFeatures" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+        </item>
+		<item text="栅格服务" id="ImagerServer_F_" im0="books_close.gif" im1="books_open.gif" im2="books_close.gif" open="1">
+            <item text="栅格服务" id="ImageService" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+        </item>
+		<item text="事件集合" id="Events_F_" im0="books_close.gif" im1="books_open.gif" im2="books_close.gif" open="1">
+            <item text="地图点击事件" id="ClickOnMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="自定义地图提示" id="CustomTooltipsAsMapTips" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="显示弹出式地图交互" id="DisplayPopupsProgrammatically" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="事件监听" id="Events" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="地图提示的信息窗口" id="InfoWindowAsMapTips" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+        </item>
+		<item text="工具集合" id="Tools_F_" im0="books_close.gif" im1="books_open.gif" im2="books_close.gif" open="1">
+            <item text="使用编辑工具" id="UseEditTool" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="使用图形工具" id="UseTheDrawTool" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="使用导航工具" id="UseTheNavigationTool" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+        </item>
+		<item text="图层集合" id="layers_F_" im0="books_close.gif" im1="books_open.gif" im2="books_close.gif" open="1">
+            <item text="矢量瓦片叠加" id="DynamicandTiles" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="矢量地图" id="DynamicMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="矢量地图图层控制" id="DynamicMapLayersonoff" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+			<item text="瓦片地图" id="TiledMap" im0="iconText.gif" im1="iconText.gif" im2="iconText.gif" />
+        </item>
+		
+		
+</tree>
